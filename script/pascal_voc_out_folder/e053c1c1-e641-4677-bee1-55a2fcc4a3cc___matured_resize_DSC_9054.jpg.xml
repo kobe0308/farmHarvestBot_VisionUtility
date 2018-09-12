@@ -1,0 +1,27 @@
+<annotation>
+<folder></folder>
+<filename>e053c1c1-e641-4677-bee1-55a2fcc4a3cc___matured_resize_DSC_9054.jpg</filename>
+<path>imgdown/e053c1c1-e641-4677-bee1-55a2fcc4a3cc___matured_resize_DSC_9054.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1024</width>
+	<height>682</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>young</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>400.040596461</xmin>
+		<xmax>657.209546233</xmax>
+		<ymin>211.632808529</ymin>
+		<ymax>437.409064236</ymax>
+	</bndbox>
+</object>
+</annotation>

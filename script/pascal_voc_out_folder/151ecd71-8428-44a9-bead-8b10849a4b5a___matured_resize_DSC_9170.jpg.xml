@@ -1,0 +1,53 @@
+<annotation>
+<folder></folder>
+<filename>151ecd71-8428-44a9-bead-8b10849a4b5a___matured_resize_DSC_9170.jpg</filename>
+<path>imgdown/151ecd71-8428-44a9-bead-8b10849a4b5a___matured_resize_DSC_9170.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1024</width>
+	<height>682</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>flower</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>434.329789764</xmin>
+		<xmax>537.197369673</xmax>
+		<ymin>281.701301679</ymin>
+		<ymax>390.696735469</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>flower</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>456.150185502</xmin>
+		<xmax>552.783366629</xmax>
+		<ymin>407.82458935</ymin>
+		<ymax>501.249246885</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>flower</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>442.122788242</xmin>
+		<xmax>521.611372717</xmax>
+		<ymin>210.075730903</ymin>
+		<ymax>272.358835926</ymax>
+	</bndbox>
+</object>
+</annotation>

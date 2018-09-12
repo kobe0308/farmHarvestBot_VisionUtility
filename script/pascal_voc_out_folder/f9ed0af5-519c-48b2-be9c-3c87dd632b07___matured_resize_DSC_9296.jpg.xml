@@ -1,0 +1,27 @@
+<annotation>
+<folder></folder>
+<filename>f9ed0af5-519c-48b2-be9c-3c87dd632b07___matured_resize_DSC_9296.jpg</filename>
+<path>imgdown/f9ed0af5-519c-48b2-be9c-3c87dd632b07___matured_resize_DSC_9296.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1024</width>
+	<height>682</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>matured</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>386.783516918</xmin>
+		<xmax>518.397927824</xmax>
+		<ymin>362.935672515</ymin>
+		<ymax>487.570175439</ymax>
+	</bndbox>
+</object>
+</annotation>

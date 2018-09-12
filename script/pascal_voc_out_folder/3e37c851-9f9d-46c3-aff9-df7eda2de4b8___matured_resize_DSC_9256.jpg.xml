@@ -1,0 +1,92 @@
+<annotation>
+<folder></folder>
+<filename>3e37c851-9f9d-46c3-aff9-df7eda2de4b8___matured_resize_DSC_9256.jpg</filename>
+<path>imgdown/3e37c851-9f9d-46c3-aff9-df7eda2de4b8___matured_resize_DSC_9256.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>1024</width>
+	<height>682</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>young</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>428.095390982</xmin>
+		<xmax>540.314569064</xmax>
+		<ymin>188.276644145</ymin>
+		<ymax>331.527785697</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>young</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>440.564188546</xmin>
+		<xmax>541.87316876</xmax>
+		<ymin>337.7560962</ymin>
+		<ymax>434.294908985</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>young</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>721.112133752</xmin>
+		<xmax>767.870124619</xmax>
+		<ymin>141.564315378</ymin>
+		<ymax>189.833721771</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>young</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>523.169972412</xmin>
+		<xmax>608.89295567</xmax>
+		<ymin>194.504954647</ymin>
+		<ymax>298.82915556</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>young</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>429.653990677</xmin>
+		<xmax>496.673777588</xmax>
+		<ymin>524.605411268</ymin>
+		<ymax>646.057466063</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>matured</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>958.019287481</xmin>
+		<xmax>1014.12887652</xmax>
+		<ymin>560.418196656</ymin>
+		<ymax>621.144224054</ymax>
+	</bndbox>
+</object>
+</annotation>
